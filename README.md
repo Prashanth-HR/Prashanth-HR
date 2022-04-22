@@ -73,5 +73,5 @@ Here are some ideas to get you started: -->
 
 
 #### Ref template taken from **[Soumyajit](https://soumya-jit.tech/)**
-If u like it, support Soumyajit with a coffe :sweat_smile.
+- If u like it, support Soumyajit with a coffe :sweat_smile:
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Soumyajit A Coffee" height="60px" width="200px"></a>
