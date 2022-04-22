@@ -23,9 +23,7 @@ Here are some ideas to get you started: -->
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+- Under water :ocean:, do Crabs :crab: think the Fish :fish: are flying, :thinking:
 
 ## 🛠️ Technologies and Tools I use:
 
