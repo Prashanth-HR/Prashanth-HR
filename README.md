@@ -9,9 +9,9 @@ Here are some ideas to get you started: -->
   
 </div> -->
 <br/>
-## Random Thought: 
 
- Once underwater, do Crabs(:crab:) think Fish(:fish:) are flying...:thinking:
+## Random Thought:
+ #### Underwater, Do Crabs :crab: think Fish :fish: are flying?..:thinking:
 
  <br/>
 
