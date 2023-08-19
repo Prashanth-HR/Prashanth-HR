@@ -8,6 +8,10 @@ Here are some ideas to get you started: -->
   <img src ="./banner.png" />
   
 </div> -->
+<br/>
+## Random Thought: 
+
+ Once underwater, do Crabs(:crab:) think Fish(:fish:) are flying...:thinking:
 
  <br/>
 
@@ -22,8 +26,6 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning `Robotics, ML, AI, Computer Vision` related topics.
 
 - 👯 I’m looking to collaborate for `Dev Projects`
-
-- Under water :ocean:, do Crabs :crab: think the Fish :fish: are flying, :thinking:
 
 ## 🛠️ Technologies and Tools I use:
 
