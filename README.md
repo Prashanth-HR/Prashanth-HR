@@ -56,7 +56,7 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prashanth-HR&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashanth-HR&show_icons=true" alt="GitHub Stats"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashanth-HR" alt="GitHub Streak" />
 </div>
 
