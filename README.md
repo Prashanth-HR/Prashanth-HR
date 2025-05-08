@@ -1,13 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Prashanth H.R. </h1>
 
-<!--
-**Prashanth-HR/Prashanth-HR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-
-<!-- <div align="center">
-  <img src ="./banner.png" />
-  
-</div> -->
 <br/>
 
 ## Random Thought:
@@ -60,18 +52,14 @@ Here are some ideas to get you started: -->
 <p><a href="https://prashanth-hr.github.io/PortFolio/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Prashanth.HR-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/prashanth-kumar-hr/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
-<!-- ## 🤝 Support Me:
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a> -->
 
 ## 📊 My GitHub Data:
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Prashanth-HR&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-HR&" alt="Prashanth-HR" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashanth-HR" alt="GitHub Streak" />
 </div>
 
 
 #### Ref template taken from **[Soumyajit](https://soumya-jit.tech/)**
-- If u like it, support Soumyajit with a coffe :sweat_smile:
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Soumyajit A Coffee" height="60px" width="200px"></a>
+
